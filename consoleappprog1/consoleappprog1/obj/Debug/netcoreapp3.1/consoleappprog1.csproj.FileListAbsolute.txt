@@ -1,0 +1,13 @@
+C:\lab1prog\consoleappprog1\consoleappprog1\obj\Debug\netcoreapp3.1\consoleappprog1.csprojAssemblyReference.cache
+C:\lab1prog\consoleappprog1\consoleappprog1\obj\Debug\netcoreapp3.1\consoleappprog1.AssemblyInfoInputs.cache
+C:\lab1prog\consoleappprog1\consoleappprog1\obj\Debug\netcoreapp3.1\consoleappprog1.AssemblyInfo.cs
+C:\lab1prog\consoleappprog1\consoleappprog1\obj\Debug\netcoreapp3.1\consoleappprog1.csproj.CoreCompileInputs.cache
+C:\lab1prog\consoleappprog1\consoleappprog1\bin\Debug\netcoreapp3.1\consoleappprog1.exe
+C:\lab1prog\consoleappprog1\consoleappprog1\bin\Debug\netcoreapp3.1\consoleappprog1.deps.json
+C:\lab1prog\consoleappprog1\consoleappprog1\bin\Debug\netcoreapp3.1\consoleappprog1.runtimeconfig.json
+C:\lab1prog\consoleappprog1\consoleappprog1\bin\Debug\netcoreapp3.1\consoleappprog1.runtimeconfig.dev.json
+C:\lab1prog\consoleappprog1\consoleappprog1\bin\Debug\netcoreapp3.1\consoleappprog1.dll
+C:\lab1prog\consoleappprog1\consoleappprog1\bin\Debug\netcoreapp3.1\consoleappprog1.pdb
+C:\lab1prog\consoleappprog1\consoleappprog1\obj\Debug\netcoreapp3.1\consoleappprog1.dll
+C:\lab1prog\consoleappprog1\consoleappprog1\obj\Debug\netcoreapp3.1\consoleappprog1.pdb
+C:\lab1prog\consoleappprog1\consoleappprog1\obj\Debug\netcoreapp3.1\consoleappprog1.genruntimeconfig.cache
